@@ -1,6 +1,6 @@
 # bas
 
-A new Flutter project.
+Billing and accounting system of a retail store
 
 ## Getting Started
 
